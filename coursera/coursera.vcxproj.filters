@@ -23,7 +23,10 @@
     <ClCompile Include="pch.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="coursera.cpp">
+    <ClCompile Include="Piece_of_paper.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Part_of_the_set.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
