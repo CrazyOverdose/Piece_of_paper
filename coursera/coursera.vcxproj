@@ -154,6 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Breaking_into_words.cpp" />
     <ClCompile Include="Part_of_the_set.cpp" />
     <ClCompile Include="Piece_of_paper.cpp" />
     <ClCompile Include="pch.cpp">
